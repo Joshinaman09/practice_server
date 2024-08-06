@@ -9,5 +9,5 @@ def new(a,b):
     else:
         print('nothing')
 
-def new_function(c,d):
-    print('m')
+def new_function(m):
+    print(m)
