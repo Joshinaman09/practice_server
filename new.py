@@ -8,3 +8,6 @@ def new(a,b):
         print("Hello")
     else:
         print('nothing')
+
+def new_function(c,d):
+    print('m')
